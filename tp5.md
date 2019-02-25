@@ -66,4 +66,15 @@ Puis écrire la ligne dans le fichier:
 
 ### 1. Mise en place du serveur DHCP
 
+Après avoir installer les paquets, il faut rentre la ligne  
+```bash
+[oui@dhcp-net2 etc]$ sudo nano /etc/dhcp/dhcpd.conf
+```
+Puis recopier dans le fichier le modèle.  
+Ensuite il faut démarer le serveur:
+```bash
+[oui@dhcp-net2 etc]$ sudo systemctl start dhcpd
+```
+Il ne se passe rien ça fonctionne donc youpi  
+![](http://gif.toutimages.com/images/fete/anniversaire/anniversaire_010.gif)  
 
