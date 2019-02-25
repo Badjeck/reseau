@@ -78,5 +78,5 @@ Ensuite il faut démarer le serveur:
 Il ne se passe rien ça fonctionne donc youpi  
 ![](http://gif.toutimages.com/images/fete/anniversaire/anniversaire_010.gif)
 
-*niquel je sais pas ce que j'ai mais mon client1 vien de me lacher quel bonheur*
+*niquel je sais pas ce que j'ai mais mon client1 vien de me lacher quel bonheur*  
 *sasoul je vois avec toi ou antoine demain mais je n'arrive plus a me connecter en ssh même après reboot*
