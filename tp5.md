@@ -80,3 +80,4 @@ Il ne se passe rien ça fonctionne donc youpi
 
 *niquel je sais pas ce que j'ai mais mon client1 vien de me lacher quel bonheur*  
 *sasoul je vois avec toi ou antoine demain mais je n'arrive plus a me connecter en ssh même après reboot*
+*j'ai demander a antoine je gère ça cet aprèm*
